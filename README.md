@@ -1,6 +1,7 @@
 # Discord Token Grabber
 
 This is a Python script that grabs Discord tokens from various sources on a Windows machine and checks their validity by sending a request to the Discord API. It also sends a message to a Discord webhook with the total number of valid tokens found.
+Author `Bilalmahsud`
 
 ## Requirements
 
@@ -17,7 +18,5 @@ This is a Python script that grabs Discord tokens from various sources on a Wind
 
 
 ## Note: This script is intended for educational and research purposes only. Use of this script for malicious purposes is strictly prohibited.
-Contributing
+    Contributing
 
-## Contributions are welcome! Feel free to fork this repository and submit a pull request.
-License
